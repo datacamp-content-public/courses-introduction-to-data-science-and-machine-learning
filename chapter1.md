@@ -1,42 +1,29 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Getting to Know Data Science'
+description: 'In This Chapter, you will learn what data science is.'
 ---
 
-## Example coding exercise
+## Insert exercise title here
 
 ```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
+type: PureMultipleChoiceExercise
+key: 3c6e718d78
+xp: 50
 ```
 
-This is an example exercise.
-
-`@instructions`
-
+Which of the following fields does data science derive its influence from>
 
 `@hint`
+- Data Science needs programming skills
+- Data Science needs data analytics skills
+- Data Science needs statistical and mathematical skills
 
+`@possible_answers`
+- [Internet Advertising]
+- Computer Science 
+- Statistics
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@feedback`
+- Perfect!
+- Data Science needs programming
+- Data Science needs statistics
